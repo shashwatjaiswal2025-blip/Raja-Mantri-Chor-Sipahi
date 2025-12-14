@@ -8,6 +8,6 @@ This can be usefull in testing: https://shashwatj0107-9790495.postman.co/workspa
 
 I have modified the suggested API endpoints from /room to /rooms everywhere for uniformity
 
-POssible improvements:
+Possible improvements in future:
 1) add the authentication system to the header to auto verify the players
 2) add a requestn to kick people out of the room to get th peopl in waiting list into the room. make it so only the creator of the room can do this
